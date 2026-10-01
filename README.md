@@ -1,4 +1,4 @@
-# Netflix Insights — Redesigned UI
+# Netflix Insights
 
 A redesigned Streamlit analytics dashboard using the original project dataset and core metrics, with a premium dark interface, responsive KPI cards, interactive Plotly charts, filters, tabs, and CSV export.
 
