@@ -17,7 +17,7 @@ A redesigned Streamlit analytics dashboard using the original project dataset an
    ```
 5. Start the app:
    ```powershell
-   py -m streamlit run Untitled1.py
+   py -m streamlit run netflix1.py
    ```
 6. Open the local URL shown in the terminal (usually (https://tejaskasure-netflixpython-main-netflix1-ybr6hc.streamlit.app/).
 
